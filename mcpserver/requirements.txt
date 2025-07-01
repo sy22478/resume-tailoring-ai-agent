@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+requests
+fastmcp
+openai
+langchain
+weaviate-client

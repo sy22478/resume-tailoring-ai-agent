@@ -4,4 +4,9 @@ chromadb
 sentence-transformers
 openai
 PyPDF2
-python-dotenv 
+python-dotenv
+markdown-it-py<3.0.0
+rich<14,>=13.7.1
+fastapi
+uvicorn
+fastmcp 
