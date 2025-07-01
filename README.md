@@ -55,7 +55,6 @@ streamlit run app.py
 ```bash
 uvicorn mcpserver.main:app --reload
 ```
-- Access API docs at: [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ## API Endpoints
 - `POST /mcp/store` — Store context items
